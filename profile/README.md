@@ -1,6 +1,6 @@
 # 🌌 New Horizons Project
 
-_New way of storing your knowledge._
+_The New Way of Storing Knowledge_
 
 ## 📝 Credits
 
