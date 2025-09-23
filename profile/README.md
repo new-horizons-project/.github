@@ -29,7 +29,7 @@ _New way of storing your knowledge._
 
 | Role                    | Contributor |
 |-------------------------|-------------|
-| People Partner          | [Sever]()   |
+| People Partner          | [Sever](https://www.instagram.com/sever_sw) _(Instagram)_ |
 | People Partner          | [Sui]()     |
 
 ### 📂 Project Management
