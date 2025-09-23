@@ -1,12 +1,32 @@
-## Hi there 👋
+# 🌌 New Horizons Project
 
-<!--
+_New way of storing your knowledge._
 
-**Here are some ideas to get you started:**
+## 📝 Credits
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🔧 Backend Development
+
+| Role                    | Contributor |
+|-------------------------|-------------|
+| Lead Backend Developer  | [@at-elcapitan](https://github.com/at-elcapitan) |
+| Backend Developer       | [phantom](https://github.com/phantom42-web) |
+
+### 🖵 Frontend Development
+
+| Role                    | Contributor |
+|-------------------------|-------------|
+| Lead Frontend Developer | [@at-elcapitan](https://github.com/at-elcapitan) |
+
+### 🖌️ User Interface & Design
+
+| Role                    | Contributor |
+|-------------------------|-------------|
+| UI/UX Designer          | [@at-elcapitan](https://github.com/at-elcapitan) |
+| Animator                | [Sio](https://t.me/adoedit) _(Telegram)_ |
+| Designer                | [nartina](https://www.instagram.com/nar_tinaa) _(Instagram)_ |
+
+### 📂 Project Management
+
+| Role                    | Contributor |
+|-------------------------|-------------|
+| Creative Director/Project Manager | [@at-elcapitan](https://github.com/at-elcapitan) |
