@@ -25,6 +25,14 @@ _The New Way of Storing Knowledge_
 | Animator                | [Sio](https://t.me/adoedit) _(Telegram)_ |
 | Designer                | [nartina](https://www.instagram.com/nar_tinaa) _(Instagram)_ |
 
+### 🌍 Localization
+
+| Language                | Contributor |
+|-------------------------|-------------|
+| Қазақша, 日本語          | [Miy](https://youtube.com/@miyqxs) |
+| Українська              | [@at-elcapitan](https://github.com/at-elcapitan) |
+| 日本語, Русский          | [BobrDobr](https://www.youtube.com/@bobrdobr21) |
+
 ### 👤 Human Resource
 
 | Role                    | Contributor |
