@@ -38,7 +38,7 @@ _The New Way of Storing Knowledge_
 | Role                    | Contributor |
 |-------------------------|-------------|
 | People Partner          | [Sever](https://www.instagram.com/sever_sw) _(Instagram)_ |
-| People Partner          | [Sui]()     |
+| People Partner          | [Sui](https://t.me/suiemokenp) _(Telegram)_ |
 
 ### 📂 Project Management
 
