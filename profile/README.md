@@ -8,14 +8,14 @@ _The New Way of Storing Knowledge_
 
 | Role                    | Contributor |
 |-------------------------|-------------|
-| Lead Backend Developer  | [@at-elcapitan](https://github.com/at-elcapitan) |
+| Lead Fullstack Developer  | [@at-elcapitan](https://github.com/at-elcapitan) |
 | Backend Developer       | [@phantom42-web](https://github.com/phantom42-web) |
 
 ### 🖵 Frontend Development
 
 | Role                    | Contributor |
 |-------------------------|-------------|
-| Lead Frontend Developer | [@at-elcapitan](https://github.com/at-elcapitan) |
+| Lead Fullstack Developer | [@at-elcapitan](https://github.com/at-elcapitan) |
 
 ### 🖌️ User Interface & Design
 
