@@ -23,7 +23,6 @@ _The New Way of Storing Knowledge_
 |-------------------------|-------------|
 | UI/UX Designer          | [@at-elcapitan](https://github.com/at-elcapitan) |
 | Animator                | [Sio](https://t.me/adoedit) _(Telegram)_ |
-| Designer                | [nartina](https://www.instagram.com/nar_tinaa) _(Instagram)_ |
 
 ### 🌍 Localization
 
@@ -37,7 +36,6 @@ _The New Way of Storing Knowledge_
 
 | Role                    | Contributor |
 |-------------------------|-------------|
-| People Partner          | [Sever](https://www.instagram.com/sever_sw) _(Instagram)_ |
 | People Partner          | [Sui](https://t.me/suiemokenp) _(Telegram)_ |
 
 ### 📂 Project Management
@@ -46,9 +44,9 @@ _The New Way of Storing Knowledge_
 |-------------------------|-------------|
 | Creative Director/Project Manager | [@at-elcapitan](https://github.com/at-elcapitan) |
 
-## ⭐ Special Thanks
+## ⭐ Our Partners
 
 | Contributor   | Contribution | Link |
 |---------------|--------------|------|
-| **UAdo**      | For helping with finding people | [Telegram](https://t.me/adofanua) |
+| **DokiDoki Himasa**| For participation in the project |  |
 | **Ado Updates** | For helping with finding people | [Telegram](https://t.me/adoupdates) |
